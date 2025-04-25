@@ -1,0 +1,13 @@
+ul {
+    background-color: #cdcdcd;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    
+    display: inline-block;
+    margin: 20px;
+    
+}
