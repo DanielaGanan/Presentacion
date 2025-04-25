@@ -9,5 +9,18 @@ li {
     
     display: inline-block;
     margin: 20px;
-    
+}
+
+#imagen-p {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+#presentacion p {
+    display: inline;
+}
+
+main span {
+    color:red;
 }
