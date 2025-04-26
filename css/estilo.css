@@ -28,6 +28,14 @@ main span {
     color:red;
 }
 
+table{
+    margin: 30px;
+}
+
+tr th {
+    padding: 10px;
+}
+
 footer {
     background-color: #323232;
     color: white;
