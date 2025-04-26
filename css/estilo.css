@@ -14,6 +14,10 @@ li {
     margin: 20px;
 }
 
+div ul {
+    display: block;
+}
+
 #imagen-p {
     width: 200px;
     height: 200px;
@@ -35,6 +39,7 @@ table{
 
 tr th {
     padding: 10px;
+    margin: 10px;
 }
 
 footer {
