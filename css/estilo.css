@@ -1,5 +1,8 @@
-ul {
+nav {
     background-color: #cdcdcd;
+}
+
+ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
@@ -23,4 +26,9 @@ li {
 
 main span {
     color:red;
+}
+
+footer {
+    background-color: #323232;
+    color: white;
 }
