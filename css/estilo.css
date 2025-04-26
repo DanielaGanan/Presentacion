@@ -51,3 +51,11 @@ footer p {
     display: flex;
     justify-content: center;
 }
+
+#crml {
+    font-size: 18px;
+}
+
+#crml span{
+    color: blue;
+}
