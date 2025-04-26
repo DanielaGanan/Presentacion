@@ -20,8 +20,9 @@ li {
     display: inline-block;
 }
 
-#presentacion p {
-    display: inline;
+#presentacion {
+    display: flex;
+    justify-content: center;
 }
 
 main span {
@@ -39,4 +40,9 @@ tr th {
 footer {
     background-color: #323232;
     color: white;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
 }
